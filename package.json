@@ -5,7 +5,7 @@
   "main": "index.js",
   "devDependencies": {
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "2.0.20"
   },
   "dependencies": {
     "concurrently": "^5.3.0",
